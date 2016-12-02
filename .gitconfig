@@ -6,8 +6,8 @@
   editor = atom --wait
 
 [user]
-  name = Joel Friedlaender
-  email = joel@redguava.com.au
+  name = Jim Sadusky
+  email = jim@redguava.com.au
 
 [push]
   default = simple
